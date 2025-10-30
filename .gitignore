@@ -1,0 +1,15 @@
+# Ignore local vector store folder
+/data/vector_store/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore source folder (if not needed in Git)
+/src
+
+# Ignore environment file with secrets
+.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
